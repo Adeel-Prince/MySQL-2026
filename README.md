@@ -56,7 +56,7 @@ Follow these configuration sequences to establish individual execution nodes or 
 ### 1. Clone the Target Repository
 ```bash
 git clone https://github.com
-cd MySQL_Backend_Ecosystem_2026
+cd MySQL-2026
 ```
 
 ### 2. Install Dependency Clusters
