@@ -1,0 +1,29 @@
+# ====================================================================
+# GLOBAL SECURITY AND ENVIRONMENT BLOCKS (Applies to all sub-folders)
+# ====================================================================
+
+# 🔐 HIDE ALL ENVIRONMENT SECRET FILES (Protects your database passwords & OAuth keys)
+.env
+.env.local
+.env.*
+*.env
+
+# 📦 BLOCK ALL HEAVY DEPENDENCIES (Keeps your GitHub repository light)
+node_modules/
+package-lock.json
+skills-lock.json
+
+# 🛠️ CHROME / OS / IDE CLUTTER
+.vscode/
+.DS_Store
+Thumbs.db
+.agents/
+.claude/
+.windsurf/
+
+# ====================================================================
+# OPTIONAL ORM BLOCKS (Read below before uncommenting)
+# ====================================================================
+# If you also want to hide your local SQLite test databases, uncomment this:
+*.db
+*.db-journal

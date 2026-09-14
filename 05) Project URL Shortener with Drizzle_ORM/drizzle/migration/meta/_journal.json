@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1787527642998,
+      "tag": "0000_polite_shotgun",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789233992966,
+      "tag": "0001_funny_black_crow",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789296212514,
+      "tag": "0002_lush_yellow_claw",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1789304371778,
+      "tag": "0003_mixed_crystal",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1789319813891,
+      "tag": "0004_modern_mimic",
+      "breakpoints": true
+    }
+  ]
+}
